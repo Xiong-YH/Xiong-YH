@@ -28,23 +28,22 @@ You can click the Preview link to take a look at your changes.
 </div>
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img height="100px" src="https://github-readme-stats.vercel.app/api?username=hpu-hyh&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpu-hyh&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="100px" src="https://github-readme-stats.vercel.app/api?username=Xiong-YH&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiong-YH&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <br>
 
 ## Follow Me
-![访问个人主页数量](https://komarev.com/ghpvc/?username=hpu-hyh&color=green)
-[![Github](https://img.shields.io/github/followers/hpu-hyh?label=Github&style=social)](https://github.com/hpu-hyh)
+![访问个人主页数量](https://komarev.com/ghpvc/?username=Xiong-YH&color=green)
+[![Github](https://img.shields.io/github/followers/Xiong-YH?label=Github&style=social)](https://github.com/Xiong-YH)
 
 
 ## GitHub Infos
-<img src="https://github-profile-trophy.vercel.app/?username=hpu-hyh&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
-
-## My Github Status 🦸
+<img src="https://github-profile-trophy.vercel.app/?username=Xiong-YH&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
 
 
-![](https://activity-graph.herokuapp.com/graph?username=hpu-hyh&theme=github)
+
+![](https://activity-graph.herokuapp.com/graph?username=Xiong-YH&theme=github)
 
 
 
