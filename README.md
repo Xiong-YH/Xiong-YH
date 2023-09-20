@@ -5,9 +5,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);突然复活！&center=true&size=27">
   </a>
 </h1>
-- 👋 Hi
-- 🌱 对web开发有着很大的兴趣
-- 💞️ 希望能以Github来记录自己的成长和学习状况
+- 👋 Hi<br/>
+- 🌱 对web开发有着很大的兴趣<br/>
+- 💞️ 希望能以Github来记录自己的成长和学习状况<br/>
 – 🍻 一起加油！
 
 <!---
