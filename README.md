@@ -2,15 +2,15 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);努力，努力，再努力&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);前进 前进 前进&center=true&size=27">
   </a>
 </h1>
 - 🔭 Hi！<br>
 - 🌱 我是一名正在学习的前端开发小白<br>
 - 😄 喜欢学习更多的技术<br>
-- 👯 希望能够交朋友，多交流技术<br>
+- 👯 希望能够交朋友，多多交流技术<br>
 - 📫 我的QQ：974205071<br>
-- ⚡ 一个小目标：希望有一天能够正式进入互联网行业
+- 😫 求求给个实习吧
 <!---
 Xiong-YH/Xiong-YH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
