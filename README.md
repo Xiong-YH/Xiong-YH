@@ -33,10 +33,8 @@ You can click the Preview link to take a look at your changes.
 </div> -->
 <br>
 
-## Follow Me
-![访问个人主页数量](https://komarev.com/ghpvc/?username=Xiong-YH&color=green)
-[![Github](https://img.shields.io/github/followers/Xiong-YH?label=Github&style=social)](https://github.com/Xiong-YH)
-
+## 实习经历
+- 马上去绿盟实习啦
 
 ## GitHub Infos
 <img src="https://github-profile-trophy.vercel.app/?username=Xiong-YH&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
