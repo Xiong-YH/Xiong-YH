@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ## 实习经历
-- 马上去绿盟实习啦
+- 武汉绿盟科技4.1 ~ 至今
 
 ## GitHub Infos
 <img src="https://github-profile-trophy.vercel.app/?username=Xiong-YH&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
