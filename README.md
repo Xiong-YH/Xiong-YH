@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 实习经历
 - 武汉绿盟科技 2024.4 ~ 2024.5
-- 北京滴滴 马上出发🚀🚀🚀
+
 
 ## GitHub Infos
 <img src="https://github-profile-trophy.vercel.app/?username=Xiong-YH&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
