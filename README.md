@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ## 实习经历
-- 武汉绿盟科技 2024.4 ~ 2024.5
+- 
 
 
 ## GitHub Infos
