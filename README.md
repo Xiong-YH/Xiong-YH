@@ -9,8 +9,6 @@
 - 🌱 我是一名正在学习的前端开发小白<br>
 - 😄 喜欢学习更多的技术<br>
 - 👯 希望能够交朋友，多多交流技术<br>
-- 📫 我的QQ：974205071<br>
-- 😁 找到实习喽
 <!---
 Xiong-YH/Xiong-YH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
